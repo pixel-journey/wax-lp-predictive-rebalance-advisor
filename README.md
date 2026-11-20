@@ -1,7 +1,7 @@
 # Below, inside, or above
 
 **Trust label:** `educational-reference`  
-**Catalog:** [wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)
+**Catalog:** `wax-ecosystem-blueprint-catalog` (private index; not this public course)
 
 10 is inside 10 to 20. 9 is below. 21 is above. Not advice to move liquidity.
 
@@ -16,7 +16,7 @@ The earlier README described a live product. This tree does not ship that.
 | `src/usecases.ts` | HTTP requests, built and not sent |
 | `src/Demo.tsx` | Offline page |
 
-`npm test` runs the rules. `npm run dev` opens the page.
+The course is [EDUCATION.md](EDUCATION.md). `npm test` runs the rules. `npm run dev` opens the page.
 
 ## Queries
 
